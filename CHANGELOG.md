@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 132
-- webhooks: maintenance and dependency updates (2026-11-23 17:48)
+## Sprint 133
+- webhooks: maintenance and dependency updates (2026-11-24 09:41)
